@@ -1,1 +1,1 @@
-teste
+console.log("Ola mundo!");

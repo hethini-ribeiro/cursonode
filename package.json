@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "bootstrap": "^4.6.0"
+  },
+  "name": "cursonode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hethini-ribeiro/cursonode.git",
+  "author": "Hethini Ribeiro",
+  "license": "MIT"
+}
